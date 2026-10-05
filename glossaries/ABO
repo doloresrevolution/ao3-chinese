@@ -1,4 +1,4 @@
-版本号：1.0.1
+版本号：1.0.2
 维护者：Doloresrevolution
 更新时间：2026.10.05
 
@@ -14,6 +14,7 @@ pre-heat: 预发情
 "scent blocker": 气味阻隔剂
 
 禁翻词条
+// 此区域区分大小写，用于保持原文
 Alpha
 alpha
 Beta
